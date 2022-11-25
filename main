@@ -1,0 +1,4 @@
+from Monedas import Country
+chile=Country("Chile","Peso chileno","CLP")
+usa =Country("Estados unidos","Dolar","USD")
+chile.print()
